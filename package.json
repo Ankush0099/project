@@ -1,0 +1,13 @@
+{
+  "name": "om-polo-fibre-plast",
+  "version": "1.0.0",
+  "description": "Official website for OM POLO FIBRE PLAST - FRP / Fibre Plast solutions for Power Plants, Paper Mills and Industrial applications.",
+  "private": true,
+  "scripts": {
+    "dev": "serve -l 3000 .",
+    "start": "serve -l 3000 ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
